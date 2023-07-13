@@ -26,11 +26,6 @@ Status do Projeto | Project Status: :heavy_check_mark: Concluído | Concluded
 
 Este repositório contém um exemplo básico de um site de reserva de hotel desenvolvido em HTML e CSS. O objetivo deste projeto é fornecer um ponto de partida simples para a criação de um site de reserva de hotel.
 
-Recursos do Projeto:
-- Layout responsivo e amigável para dispositivos móveis
-- Formulário de reserva com seleção de destino, datas e período da viagem
-- Estilização básica usando CSS para uma aparência agradável
-
 Como Usar:
 1. Faça o clone deste repositório para o seu ambiente local.
 2. Abra o arquivo `index.html` no seu navegador para visualizar o site de reserva de hotel.
@@ -50,11 +45,6 @@ Aproveite e divirta-se criando seu próprio site de reserva de hotel!</p>
 
 This repositiry contains a basic example of a hotel reservation website developed in HTML and CSS. The aim of this project is to provide a simple starting point for creating a hotel reservation website.
 
-Project Features:
-- Responsive and mobile-friendly layout
-- Reservation form with destination selection, Dates, and travel period
-- Basic styling using CSS for a pleasant 
-appearance
 
 How to Use: 
 1.Clone this repository to your local environment.
@@ -70,13 +60,20 @@ Enjoy and have fun creating your own hotel reservation website!
 
 </p>
 
+<br>
+
 </p>
 
 ## Funcionalidades | Functionalities
 
-:heavy_check_mark: Acesso a pacotes de viagens;  
+:heavy_check_mark: Acesso a pacotes de viagens | Access to travel packages; 
 
-:heavy_check_mark: Menu e layout responsivos.  
+:heavy_check_mark: Layout responsivo e amigável para dispositivos móveis | Responsive and mobile-friendly layout; 
+
+:heavy_check_mark: Formulário de reserva com seleção de destino, datas e período da viagem | Reservation form with destination selection, Dates, and travel period;
+
+:heavy_check_mark: Estilização básica usando CSS para uma aparência agradável | Basic styling using CSS for a pleasant 
+appearance;
 
 
 ## Linguagens, dependências e libs utilizadas | Languages, dependencies and libs used :books:
