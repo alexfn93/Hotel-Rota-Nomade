@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Reserva Hotel Rota Nômade | Reserve Hotel Rota Nômade </h1>
+    <h1> Reserva Hotel Rota Nômade | Hotel Reservation Rota Nômade </h1>
 
 </div>
 
@@ -43,8 +43,32 @@ Contribuições e melhorias são sempre bem-vindas! Se você tiver sugestões, f
 
 Aproveite e divirta-se criando seu próprio site de reserva de hotel!</p>
 
+<br><br>
+
 <h4>English: </h4>
-<p> </p>
+<p> Hotel Reservation - Hotel Reservation Website Example in HTML and CSS
+
+This repositiry contains a basic example of a hotel reservation website developed in HTML and CSS. The aim of this project is to provide a simple starting point for creating a hotel reservation website.
+
+Project Features:
+- Responsive and mobile-friendly layout
+- Reservation form with destination selection, Dates, and travel period
+- Basic styling using CSS for a pleasant 
+appearance
+
+How to Use: 
+1.Clone this repository to your local environment.
+2.Open the `index.html` file in your browser to view the hotel reservation website.
+3.Explore the different sections of the website and make a reservation using the provided fields.
+4.Customize the HTML and CSS code according to your needs to create your own hotel reservation website.
+
+Feel free to use this project as a starting point for your own hotel reservation applications or expand and customize it as desired. 
+
+Contributions and improvements are always welcome! If you have any suggestions, feel free to open an issue or submit a pull request.
+
+Enjoy and have fun creating your own hotel reservation website!
+
+</p>
 
 </p>
 
