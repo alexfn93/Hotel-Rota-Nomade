@@ -9,7 +9,7 @@
 Link do website: <a href="https://alexfn93.github.io/Reserva-Hotel-Rota-Nomade/index.html">Hotel Rota Nômade</a>
 
 </div>
-> Status do Projeto | Project Status: :heavy_check_mark: :warning: Concluído | Concluded
+Status do Projeto | Project Status: :heavy_check_mark: Concluído | Concluded
 
 ### Tópicos | Topics
 
@@ -22,11 +22,29 @@ Link do website: <a href="https://alexfn93.github.io/Reserva-Hotel-Rota-Nomade/i
 
 <p align="justify">
 <h4>Português: </h4>
-<p>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX - UUUUUUUUUUUUUUUUUUUUUUUUU</p>
+<p>Reserva de Hotel - Exemplo de Site de Reserva de Hotel em HTML e CSS
+
+Este repositório contém um exemplo básico de um site de reserva de hotel desenvolvido em HTML e CSS. O objetivo deste projeto é fornecer um ponto de partida simples para a criação de um site de reserva de hotel.
+
+Recursos do Projeto:
+- Layout responsivo e amigável para dispositivos móveis
+- Formulário de reserva com seleção de destino, datas e período da viagem
+- Estilização básica usando CSS para uma aparência agradável
+
+Como Usar:
+1. Faça o clone deste repositório para o seu ambiente local.
+2. Abra o arquivo `index.html` no seu navegador para visualizar o site de reserva de hotel.
+3. Explore as diferentes seções do site e faça uma reserva usando os campos fornecidos.
+4. Personalize o código HTML e CSS de acordo com suas necessidades para criar seu próprio site de reserva de hotel.
+
+Sinta-se à vontade para usar este projeto como ponto de partida para suas próprias aplicações de reserva de hotel ou expandir e personalizar conforme desejar.
+
+Contribuições e melhorias são sempre bem-vindas! Se você tiver sugestões, fique à vontade para abrir uma issue ou enviar um pull request.
+
+Aproveite e divirta-se criando seu próprio site de reserva de hotel!</p>
 
 <h4>English: </h4>
-<p>I developed a game Ping-Pong using HTML, CSS and JavaScript to apply logic programing I'm studying. 
-I implemented concepts de Object Oriented Programming, decision structure, operators relational and logical. </p>
+<p> </p>
 
 </p>
 
