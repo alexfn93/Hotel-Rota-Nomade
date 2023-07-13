@@ -8,6 +8,8 @@
 
 Link do website: <a href="https://alexfn93.github.io/Reserva-Hotel-Rota-Nomade/index.html">Hotel Rota Nômade</a>
 
+Link do video: <a href="https://www.youtube.com/watch?v=SBya-vi8cLM">Hotel Rota Nômade</a>
+
 </div>
 Status do Projeto | Project Status: :heavy_check_mark: Concluído | Concluded
 
