@@ -1,12 +1,12 @@
 <div align="center">
-    <h1> Reserva Hotel Rota Nômade| Project Name Here</h1>
+    <h1> Reserva Hotel Rota Nômade | Reserve Hotel Rota Nômade </h1>
 
 </div>
 
 ![image](https://github.com/alexfn93/Reserva-Hotel-Rota-Nomade/assets/108309097/48165c4f-d012-4b7d-a2be-d28d6e609225)
 <div>
 
-Link do website: <a href="#">Site</a>
+Link do website: <a href="https://alexfn93.github.io/Reserva-Hotel-Rota-Nomade/index.html">Hotel Rota Nômade</a>
 
 </div>
 > Status do Projeto | Project Status: :heavy_check_mark: :warning: Concluído | Concluded
