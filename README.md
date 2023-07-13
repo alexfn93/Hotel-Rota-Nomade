@@ -38,8 +38,9 @@ Contribuições e melhorias são sempre bem-vindas! Se você tiver sugestões, f
 
 Aproveite e divirta-se criando seu próprio site de reserva de hotel!</p>
 
-<br><br>
+<br>
 
+<p align="justify">
 <h4>English: </h4>
 <p> Hotel Reservation - Hotel Reservation Website Example in HTML and CSS
 
@@ -47,10 +48,11 @@ This repositiry contains a basic example of a hotel reservation website develope
 
 
 How to Use: 
-1.Clone this repository to your local environment.
-2.Open the `index.html` file in your browser to view the hotel reservation website.
-3.Explore the different sections of the website and make a reservation using the provided fields.
-4.Customize the HTML and CSS code according to your needs to create your own hotel reservation website.
+
+1.Clone this repository to your local environment.<br>
+2.Open the `index.html` file in your browser to view the hotel reservation website.<br>
+3.Explore the different sections of the website and make a reservation using the provided fields.<br>
+4.Customize the HTML and CSS code according to your needs to create your own hotel reservation website.<br>
 
 Feel free to use this project as a starting point for your own hotel reservation applications or expand and customize it as desired. 
 
@@ -66,50 +68,45 @@ Enjoy and have fun creating your own hotel reservation website!
 
 ## Funcionalidades | Functionalities
 
-:heavy_check_mark: Acesso a pacotes de viagens | Access to travel packages; 
+<h4>Português:</h4>
 
-:heavy_check_mark: Layout responsivo e amigável para dispositivos móveis | Responsive and mobile-friendly layout; 
+:heavy_check_mark: Acesso a pacotes de viagens  
 
-:heavy_check_mark: Formulário de reserva com seleção de destino, datas e período da viagem | Reservation form with destination selection, Dates, and travel period;
+:heavy_check_mark: Layout responsivo e amigável para dispositivos móveis 
 
-:heavy_check_mark: Estilização básica usando CSS para uma aparência agradável | Basic styling using CSS for a pleasant 
-appearance;
+:heavy_check_mark: Formulário de reserva com seleção de destino, datas e período da viagem
 
+:heavy_check_mark: Estilização básica usando CSS para uma aparência agradável
+
+<br>
+
+<h4>English:</h4>
+
+:heavy_check_mark: Access to travel packages;
+
+:heavy_check_mark: Responsive and mobile-friendly layout;
+
+:heavy_check_mark: Reservation form with destination selection, Dates, and travel period;
+
+:heavy_check_mark:Basic styling using CSS for a pleasant appearance;
+
+<br>
 
 ## Linguagens, dependências e libs utilizadas | Languages, dependencies and libs used :books:
 
 <h3>Front-end</h3>
 <ul>
     <li><b>Status: </b>OK</li>
-    <li><b>Tecnologias | Technologies: </b>HTML, CSS, JavaScript e Bootstrap.</li>
-    <li><b>Mobile: </b> React Native </li>
-</ul>
-<h3>Back-end</h3>
-
-<ul>
-    <li><b>Status: </b>OK</li>   
-    <li><b>Tecnologias | Technologies: </b>Java, Spring, C#.</li>
-    <li><b>Observações | Comments: </b> Foi utilizada a linguagem Java (Estrutura de dados Classes) para o padrão de projeto MVC (implementado o CRUD para as tabelas do modelo de dados). O Framework Spring  foi usado para refatoração da versão anterior e atual do projeto. Foi utilizada a linguagem C# para Api no Dot Net.</li>
-</ul>
-<h3>Base de Dados | Data Base</h3>
-<ul>
-    <li><b>Status: </b>OK</li>
-    <li><b>Tecnologias | Technologies: </b>MySQL</li>
+    <li><b>Tecnologias | Technologies: </b>HTML, CSS e Bootstrap.</li>
 </ul>
 
+<br>
 
 ## Desenvolvedor | Developer: :octocat:
 
 
 [<img src="https://github.com/alexfn93.png" width=115><br><sub>Alex Fernandes</sub>](https://github.com/alexfn93)  <br> 
 
-
-<h2>Curso | Courses:</h2> XXXXXXXXXXXXXXXXXX.
-
-<h2>Professore(s) | Teacher(s):</h2> XXXXXXXXXXXXX; <br>
-
-<p align="justify">
-<h2>Agradecimentos | Ackowledgment:</h2> XXXXXXXXXXXXXXXX </p>
 
 ## Licença | License
 
